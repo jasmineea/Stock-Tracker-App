@@ -71,3 +71,6 @@ gem "devise-bootstrap-views", "~> 0.0.11"
 
 # Added at 2018-04-03 00:58:03 -0700 by jasmineanderson:
 gem "stock_quote", "~> 2.0"
+
+# Added at 2018-04-04 00:09:28 -0700 by jasmineanderson:
+gem "font-awesome-rails", "~> 4.7"
